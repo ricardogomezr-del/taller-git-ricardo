@@ -25,3 +25,5 @@ resuelto en el historial. Los archivos `.env`, `*.env` y `*.log` no se publican.
 ## Comprobar el sitio
 
 Abre `index.html` en el navegador. No requiere instalar dependencias.
+
+Prueba de sincronización entre GitHub y mi repositorio local.
